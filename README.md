@@ -2,7 +2,7 @@
 Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı deneyimini artıracak bir dizi özellik içerir. Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: @luhux İlginiz için teşekkür ederim!
 Ücretli bot kod altyapı DM!(luhux)
 
-[Not : İNDİRİMDE SON GÜNLER DİSCORDDAN ULAŞABİLİRSİNİZ]
+[Not : İNDİRİM DEVAM EDİYOR HALA]
 [Not :WEB PANEL EKLENDİ]
 - PAZARLIK TABİ Kİ VAR
 - Daha detaylı bilgi için bana discordan yazabilirsiniz luhux#0 341592492224806914
@@ -10,7 +10,6 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 # Görseller
 <details>
   <summary>GÖREV/YETKİLİ SİSTEMİ</summary>
-
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Görev Dağıtma | <img alt="image" src= "https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/e35a1af7-305e-48ee-b28e-59525c90ca9b"> |
