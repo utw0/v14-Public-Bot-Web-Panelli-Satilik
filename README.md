@@ -4,10 +4,20 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 
 [Not : İNDİRİM DEVAM EDİYOR HALA]
 [Not :WEB PANEL EKLENDİ]
-- PAZARLIK TABİ Kİ VAR
+
 - Daha detaylı bilgi için bana discordan yazabilirsiniz luhux#0 341592492224806914
 - Yeni Sistemler hergün güncelleniyor gerekli olanları buraya atıcam detaylar için discordan yazabilirsiniz
 # Görseller
+<details>
+  <summary>WEB PANEL</summary>
+ 
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Web Giriş | <img alt="image" src= "https://github.com/utw0/v14-Public-Bot-Web-Panelli-Satilik/assets/74924310/b1afed1d-ded1-4f63-ac96-7482b4ad4eb5"> |
+| Web Anasayfa | <img alt="image" src= "https://github.com/utw0/v14-Public-Bot-Web-Panelli-Satilik/assets/74924310/91fdeff2-d5e5-450c-9a78-89e67478939f"> |
+| Web Kurulum | <img alt="image" src= "https://github.com/utw0/v14-Public-Bot-Web-Panelli-Satilik/assets/74924310/34018686-4905-4159-860b-fa2dd0bd18ae"> |
+
+</details>
 <details>
   <summary>GÖREV/YETKİLİ SİSTEMİ</summary>
 | Komut                  | Resim                                                                                                  |
