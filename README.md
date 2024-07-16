@@ -16,6 +16,7 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 | Web Giriş | <img alt="image" src= "https://github.com/utw0/v14-Public-Bot-Web-Panelli-Satilik/assets/74924310/b1afed1d-ded1-4f63-ac96-7482b4ad4eb5"> |
 | Web Anasayfa | <img alt="image" src= "https://github.com/utw0/v14-Public-Bot-Web-Panelli-Satilik/assets/74924310/91fdeff2-d5e5-450c-9a78-89e67478939f"> |
 | Web Kurulum | <img alt="image" src= "https://github.com/utw0/v14-Public-Bot-Web-Panelli-Satilik/assets/74924310/34018686-4905-4159-860b-fa2dd0bd18ae"> |
+| Web Destek | <img alt="image" src= "https://github.com/user-attachments/assets/ff945bd2-2d97-4376-b7a6-7f073a2ee89a"> |
 
 </details>
 <details>
