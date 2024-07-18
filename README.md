@@ -2,9 +2,8 @@
 Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu botlar, sunucunuzun yönetimini kolaylaştıracak ve kullanıcı deneyimini artıracak bir dizi özellik içerir. Eğer ilgileniyorsanız, detayları konuşmak için Discord üzerinden benimle iletişime geçebilirsiniz. Discord kullanıcı adım: @luhux İlginiz için teşekkür ederim!
 Ücretli bot kod altyapı DM!(luhux)
 
-[Not : İNDİRİM DEVAM EDİYOR HALA]
-[Not :WEB PANEL EKLENDİ]
-.
+[Not : YENİ İNDİRİM VAKİT]
+
 - Daha detaylı bilgi için bana discordan yazabilirsiniz luhux#0 341592492224806914
 - Yeni Sistemler hergün güncelleniyor gerekli olanları buraya atıcam detaylar için discordan yazabilirsiniz
 # Görseller
