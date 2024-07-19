@@ -35,7 +35,13 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 | Yetkim Düzenle  | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/f1f6dadd-b2cb-46c5-86b9-1536cd7ab0b3"> |
 | Yetkili Komutları  | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/f9c1e231-58b4-4f5e-8c1f-c25908db155b"> |
 </details>
+<details>
+  <summary>GÖREV SEÇ SİSTEMİ</summary>
+| Komut                  | Resim                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Görev | <img alt="image" src= "https://github.com/user-attachments/assets/38723ae2-1a55-47bf-9eb4-0db9da50c1e1"> |
 
+</details>
 <details>
   <summary>STAT SİSTEMİ</summary>
 
@@ -63,6 +69,7 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 | Kayıt Bilgi | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/ac8d0b30-1b35-469a-9f2d-df30bf8d7dc0"> |
 | Sorumluluk Perm | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/195f8c50-701f-4778-832f-ec1c5051ac56"> |
 | Kayıt Komutları | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/a47b643a-1b5e-4f97-ab15-382d788ff256"> |
+| İstila | <img alt="image" src= "https://github.com/user-attachments/assets/7a610050-8410-4b25-9cf7-790f094d4a18"> |
 </details>
 
 <details>
