@@ -35,11 +35,14 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 | Yetkim Düzenle  | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/f1f6dadd-b2cb-46c5-86b9-1536cd7ab0b3"> |
 | Yetkili Komutları  | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/f9c1e231-58b4-4f5e-8c1f-c25908db155b"> |
 </details>
+
 <details>
   <summary>GÖREV SEÇ SİSTEMİ</summary>
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Görev | <img alt="image" src= "https://github.com/user-attachments/assets/38723ae2-1a55-47bf-9eb4-0db9da50c1e1"> |
+| Görev | <img alt="image" src= "https://github.com/user-attachments/assets/f032c2e7-c810-446c-9818-9d7122f6fd4b"> |
+
 
 </details>
 <details>
